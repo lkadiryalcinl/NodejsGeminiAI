@@ -31,6 +31,9 @@ SECRET_KEY="your-secret-key"
 
 # Environment (production/development)
 PRODUCTION="false" # Initially set to false for development
+
+#Key for gemini api
+GEMINI_API_KEY="YOUR_API_KEY"
 ```
 
 **Important**
